@@ -1,0 +1,20 @@
+{
+  "name": "iiflchat",
+  "version": "1.0.0",
+  "description": "iifl chat every where",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iifl"
+  ],
+  "author": "sourabh",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "jade": "^1.11.0",
+    "socket.io": "^2.0.4"
+  }
+}
